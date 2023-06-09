@@ -1,25 +1,6 @@
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-
-    <title>footer</title>
-    <style>
-        #we{
-            margin-top:40px;
-        
-        }
-        h2{
-        color:blue;
-      }
-    </style>
-  </head>
-  <body>
   <div class="row bg-dark text-white" id="we">
   <div class="col-3">
-    <img src="logo2_footer.png" alt="footer" />
+    <img src="images/logo2_footer.png" alt="footer" />
     <p>Achieversit- provides a wide group pf apportunities for fresher and experienced candidate who can develop their skills and build their caieer opportunities across multiple comanies.</p>
   </div>
        <div class="col-3">
@@ -46,7 +27,4 @@
 </div>
 
     
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
-
-  </body>
-</html>
+    
